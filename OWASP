@@ -1,2 +1,12 @@
-What is OWASP tool used for?
+https://github.com/juice-shop/juice-shop             //idris OWASP
+What is OWASP tool used for? 
+Guid for building and verfy secure software (OASAP and ASVS)
+it used ASVS in the background 
+To support developers in pre-development as well as after code is released.
+First step SDLC
+
+Perform a Vulnerability Scan Using OWASP Zed Attack Proxy
+it test the vernablity of web applications 
+================================================
+after douckar build what the varnability look like
 
