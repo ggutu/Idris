@@ -5,8 +5,11 @@ it used ASVS in the background
 To support developers in pre-development as well as after code is released.
 First step SDLC
 
+
 Perform a Vulnerability Scan Using OWASP Zed Attack Proxy
 it test the vernablity of web applications 
 ================================================
-after douckar build what the varnability look like
+after douckar build what the varnability look 
+sonarqube 
+privatekey -detacted
 
